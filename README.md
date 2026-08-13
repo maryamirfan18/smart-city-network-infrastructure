@@ -4,7 +4,7 @@ A comprehensive smart city network topology designed and implemented using Huawe
 
 ## System Topology
 
-<img width="1366" height="1366" alt="Project Topology" src="https://github.com/user-attachments/assets/da5b2aa9-d6d1-430a-b566-43124adaf462" />
+<img width="1000" height="1000" alt="Project Topology" src="https://github.com/user-attachments/assets/da5b2aa9-d6d1-430a-b566-43124adaf462" />
 
 
 ## Project Overview
